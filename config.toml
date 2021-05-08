@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "AGILE Sustainability"
+theme = "introduction"
+
+copyright = "© Copyright notice 2021"
+
+[params]
+    themeStyle                   = "light"
+    dateFormat                   = "2 Jan 2006"
+    customCSS                    = ["css/custom.css"]  
+
+[footer_text]
+    other = "copyright"
