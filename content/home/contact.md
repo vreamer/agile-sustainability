@@ -5,9 +5,9 @@ title: "Contact"
 
 #### Yifeng Hou
 
-Software Consultant practicing Agile
+Software Consultant Practicing Agile
 
-Business Practitioner for Sustainability
+Business Sustainability Advocate
 
-yifeng@agile-sustainability.org
+podcast@agilesustainability.org
 

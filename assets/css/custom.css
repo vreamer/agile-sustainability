@@ -2,3 +2,22 @@ img[alt="photo"] {
     width: 100px;
     height: 100px;
 }
+
+#about p {
+    text-align: left;
+    padding: 1.5rem;
+    font-size: 1.2rem;
+}
+
+#topics p {
+    font-size: 1.2rem;
+    text-align: left;
+}
+
+#topics ul {
+    margin-left: 10%;
+}
+
+a:hover {
+    color: #3273dc !important;
+}
